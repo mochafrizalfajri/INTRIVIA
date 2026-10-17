@@ -1,15 +1,12 @@
-# INTRIVIA 2026
+# INTRIVIA 2026 
 
-## Identitas Diri
+## Identitas Diri 
+| Nama Lengkap | NIM | Program Studi | Cluster | 
+|--------------|-----|---------------|---------| 
+| Moch. Afrizal Fajri | 265150200111049 | Teknik Informatika | 4 | 
 
-│ Nama Lengkap │ NIM │ Program Studi │ Cluster │
-│--------------│-----│---------------│---------│
-│ Moch. Afrizal Fajri │ 265150200111049 │ Teknik Informatika │ 04 │
+## Kesan Pesan INTRIVIA Sejauh Ini 
+INTRIVIA ASIKK 
 
-## Kesan Pesan INTRIVIA Sejauh Ini
-
-Intrivia seruu
-
-## Kesan Pesan Cluster [Nomor Cluster] Sejauh Ini
-
-teman-temannya asik dan kakak fasil nya baikk
+## Kesan Pesan Cluster 4 Sejauh Ini 
+Temennya seru-seru dan kakak fasil nya baik 
