@@ -10,3 +10,7 @@ INTRIVIA ASIKK
 
 ## Kesan Pesan Cluster 4 Sejauh Ini 
 Temennya seru-seru dan kakak fasil nya baik 
+
+## Harapan Kuliah 
+JAGO NGODINGGG
+
